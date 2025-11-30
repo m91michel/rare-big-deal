@@ -225,6 +225,7 @@ Free & open-source.
 | 🎁 | [PromptKit – AI Prompt Library](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**5O% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) | 2025-12-02 |
 | 🎙️ | [Monologue](https://monologue.to) | Effortless voice dictation that adapts to your style, context & vocabulary so you can work 3× faster. | **52% OFF** on Annual | 2025-12-02 |
 | 🍍 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. | **40% OFF Lifetime** | 2025-12-02 |
+| 📧 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **50% OFF** with code **SUMMATEBF25** | 2025-12-05 |
 
 
 [⬆️ All categories](#table-of-contents)
