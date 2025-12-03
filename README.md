@@ -558,6 +558,7 @@ Free & open-source.
 | ✈️ | [Airfare Alerts: Price Tracker](https://apps.apple.com/us/app/airfare-alerts/id6479698432) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. | 2025-12-02 |
 | 🗺️ | [Travel Route Map](https://apple.co/3NZrXqi) | Animate your travel destinations on the world map. | **50% OFF** lifetime plan with code BLCKFRDY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25) | 2025-12-31 |
 | 💸 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied) | 2025-12-04 |
+| 🎴 | [Eyevo - TCG Scanner for Pokemon](https://eyevotcg.com/) | Scan, price, and manage your Pokemon TCG collection | **70% OFF** Lifetime PRO (auto-applied in app) | 2025-12-03 |
 
 
 ### Other
