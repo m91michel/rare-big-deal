@@ -226,6 +226,7 @@ Free & open-source.
 | 🎙️ | [Monologue](https://monologue.to) | Effortless voice dictation that adapts to your style, context & vocabulary so you can work 3× faster. | **52% OFF** on Annual | 2025-12-02 |
 | 🍍 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. | **40% OFF Lifetime** | 2025-12-02 |
 | ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, or export to code. | **30% OFF** all plans with code **BLACKFRIDAY2025** | 2025-12-02 |
+| 📧 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **50% OFF** with code **SUMMATEBF25** | 2025-12-05 |
 
 
 [⬆️ All categories](#table-of-contents)
