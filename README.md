@@ -360,7 +360,7 @@ Free & open-source.
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-01 |
 | 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2025 | 2025-12-01 |
 | 🌐 | [Poedit](https://poedit.net/?ref=rare) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
-
+| 🌐 | [Webhookify](https://webhookify.io/?ref=rbd) | Developer-friendly desktop tool that captures webhook requests, lets you inspect payloads, and replay them to your local dev server. | **70% OFF** with the code **BLACKFRIDAY2025** (yearly plan) | 2025-12-14 |
 
 ### Productivity
 
