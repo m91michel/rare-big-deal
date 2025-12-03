@@ -592,6 +592,7 @@ Free & open-source.
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you designed | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-01 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-01 |
 | 🎨 | [Lineicons](https://lineicons.com) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% Flat Discount** on Business Plans with code **BLFCM2025** | 2025-12-02 |
+| 📸 | [SnapVis](https://www.snapvis.app/) | Transform any screenshot, images into stunning visuals for social media, documentation, product demos, presentations, and more. Add backgrounds, shadows, frames — all in your browser. | **80% OFF** with code **BLACKFRIDAY** | 2025-12-01 |
 
 
 ### AI Design Tools
