@@ -139,6 +139,7 @@ Free & open-source.
 | 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2025 | 2025-12-01 |
 | 🌐 | [Poedit](https://poedit.net/?ref=rare) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
 | 📋 | [CopyMagic](https://copymagic.app/?ref=rare) | The smartest, most-intuitive clipboard manager for Mac. | 50% OFF with code **BLACKFRIDAY** | 2025-12-10 |
+| 🔔 | [RevenueNotify](https://revenuenotify.com/) | Get real-time Polar.sh notifications for new sales and subscriptions | **$40 OFF** with code **RNBL25** | 2025-12-12 |
 
 
 ### APIs, Tools & SaaS
