@@ -225,6 +225,7 @@ Free & open-source.
 | 🎁 | [PromptKit – AI Prompt Library](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**5O% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) | 2025-12-02 |
 | 🎙️ | [Monologue](https://monologue.to) | Effortless voice dictation that adapts to your style, context & vocabulary so you can work 3× faster. | **52% OFF** on Annual | 2025-12-02 |
 | 🍍 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. | **40% OFF Lifetime** | 2025-12-02 |
+| ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, or export to code. | **30% OFF** all plans with code **BLACKFRIDAY2025** | 2025-12-02 |
 | 📧 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **50% OFF** with code **SUMMATEBF25** | 2025-12-05 |
 
 
@@ -315,6 +316,7 @@ Free & open-source.
 | 🤖 | [Formbot](https://tryformbot.com/black-friday/?utm_source=rbd) | Build Forms with Natural Language. Describe your form in plain English, then let users respond via traditional or AI native conversational form. | Automatic 87% off Lifetime Deal - **BLACKFRIDAY2025** | 2025-12-15 |
 | 🐦 | [TweetBlink](https://tweetbl.ink/) | AI-powered tweet generator that creates optimized, personalized content. Turn ideas into engaging posts that sound like you | **50% OFF LIFETIME**, code **BLACKFRIDAY2025** | 2025-11-28 |
 | 🔍 | [Searchly Pro](https://searchly.pro) | AI Search Plugin for WordPress. Super-accurate AI search that replaces slow, inaccurate WordPress default search. | 89% OFF (auto applied) | 2025-11-28 |
+| ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, or export to code. | **30% OFF** all plans with code **BLACKFRIDAY2025** | 2025-12-02 |
 
 
 ### Lifestyle
@@ -333,6 +335,7 @@ Free & open-source.
 | 📚 | [UnlimitedTales](https://www.unlimitedtales.com/?via=rare-big-deal) | Generate unique Storybook for children in 5 minutes with AI | Up to **35% OFF** on Black Friday **5-story Bundle** | 2025-11-30 |
 | 🥗 | [Food Camera](https://www.food.camera/?via=rare-big) | Get professional Food Photography for your resturant in seconds  | 20% OFF with code RAREBIG20 | 2025-11-30 |
 | ✒️ | [Ink Studio AI](https://inkstudioai.com/) | Create and visualize your next tattoo in minutes, thanks to AI. | 50% OFF with code **BLACKFRIDAY50** |
+| 📖 | [Meminto Stories](https://meminto.com/) | Receive prompts to write a hardcover book based on life questions and AI transcriptions from audio recordings. | 88% OFF with code **BF2025** | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -559,6 +562,7 @@ Free & open-source.
 | ✈️ | [Airfare Alerts: Price Tracker](https://apps.apple.com/us/app/airfare-alerts/id6479698432) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. | 2025-12-02 |
 | 🗺️ | [Travel Route Map](https://apple.co/3NZrXqi) | Animate your travel destinations on the world map. | **50% OFF** lifetime plan with code BLCKFRDY25 or [via this link](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25) | 2025-12-31 |
 | 💸 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied) | 2025-12-04 |
+| 🎴 | [Eyevo - TCG Scanner for Pokemon](https://eyevotcg.com/) | Scan, price, and manage your Pokemon TCG collection | **70% OFF** Lifetime PRO (auto-applied in app) | 2025-12-03 |
 
 
 ### Other
@@ -589,6 +593,7 @@ Free & open-source.
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you designed | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-01 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-01 |
 | 🎨 | [Lineicons](https://lineicons.com) | Get access to 30,000+ premium vector icons across 60+ categories and 10 unique styles, perfect for developers and designers. Available in SVG, JSX, TSX, PNG, and more formats. | **40% Flat Discount** on Business Plans with code **BLFCM2025** | 2025-12-02 |
+| 📸 | [SnapVis](https://www.snapvis.app/) | Transform any screenshot, images into stunning visuals for social media, documentation, product demos, presentations, and more. Add backgrounds, shadows, frames — all in your browser. | **80% OFF** with code **BLACKFRIDAY** | 2025-12-01 |
 
 
 ### AI Design Tools
@@ -600,6 +605,7 @@ Free & open-source.
 | 🖼️ | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics. | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 | 🎨 | [IconSprint](https://iconsprint.com) | Create iOS and Android app icons with dark mode, tinted, and mono variants in one click. | **40% OFF** with code **BF2025** | 2025-12-02 |
 | 🛋️ | [Instant Interior AI](https://InstantInteriorAI.com) | Transform any space with AI-generated interior design. Virtually stage or redesign interiors in seconds — perfect for professionals and homeowners. | **30% OFF** all plans with code BLACKFRIDAY30 | 2025-11-29 |
+| ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, or export to code. | **30% OFF** all plans with code **BLACKFRIDAY2025** | 2025-12-02 |
 
 
 ### Video Tools
@@ -838,6 +844,7 @@ Free & open-source.
 | 🚀 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 | 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 | 📈 | [AI Search Analytics](https://getairefs.com) | The Google Search Console for AI Search. Track AI Search Impressions and Share of Voice in LLMs across hundreds of prompts, without breaking the bank. | **50% OFF** with code **BFAI50** | 2025-11-30 |
+| 🔍 | [PageRadar](https://pageradar.io) | Automated SEO monitoring platform - track Core Web Vitals, search rankings, and website changes in real-time. | **20% OFF** with code **RAREBIGDEAL** | 2026-01-31 |
 
 
 ### Analyze & Audit
