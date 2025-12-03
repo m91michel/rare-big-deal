@@ -842,6 +842,7 @@ Free & open-source.
 | 🚀 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 | 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** | 2025-12-02 |
 | 📈 | [AI Search Analytics](https://getairefs.com) | The Google Search Console for AI Search. Track AI Search Impressions and Share of Voice in LLMs across hundreds of prompts, without breaking the bank. | **50% OFF** with code **BFAI50** | 2025-11-30 |
+| 🔍 | [PageRadar](https://pageradar.io) | Automated SEO monitoring platform - track Core Web Vitals, search rankings, and website changes in real-time. | **20% OFF** with code **RAREBIGDEAL** | 2026-01-31 |
 
 
 ### Analyze & Audit
